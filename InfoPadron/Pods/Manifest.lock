@@ -1,0 +1,10 @@
+PODS:
+  - Motis (1.3.0)
+
+DEPENDENCIES:
+  - Motis
+
+SPEC CHECKSUMS:
+  Motis: a5b1f6aa29ad14cd64e27c4fe15d9805c18c162f
+
+COCOAPODS: 0.38.1
